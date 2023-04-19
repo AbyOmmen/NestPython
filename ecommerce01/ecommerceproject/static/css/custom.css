@@ -1,0 +1,145 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.img2{
+    margin-left: 0px;
+    width: 1296px;
+    height: 368px;
+}
+.banner{
+    background-color: lightblue;
+    height: 82px;
+    width: 1305px;
+    margin-left: -10px;
+}
+.banner-logo{
+    margin-top: 2px;
+    margin-bottom: 5px;
+    margin-left: -9px;
+}
+}
+.banner3{
+    color: white;
+    margin-left: 1200px;
+}
+.prod{
+margin-left: 23px;
+}
+.nav-item{
+    letter-spacing:.2em;
+    color:red;
+    font-size: 14px;
+    text-transform: uppercase;
+
+}
+.dropdown-item{
+    letter-spacing:.2em;
+    color:red;
+    font-size: 14px;
+    text-transform: uppercase;
+
+}
+.base1{
+    color: white;
+    color: rgb(124, 123, 123);
+    font-size: 10px;
+    margin-left: 450px;
+    text-decoration: none;
+}
+.base2{
+    color: white;
+    color: rgb(124, 123, 123);
+    font-size: 11px;
+    margin-left: 500px;
+}
+/***Category ***/
+
+.my_row_class{
+    padding-top: 15px;
+}
+.my_row_class .mx_auto{
+    color: black;
+    font-size: 14px;
+}
+
+.my_title{
+    font-size: 20px;
+
+    text_transform: uppercase;
+    letter-spacing: .2em;
+}
+.my_img_padding{
+    padding-top: 5px;
+}
+.my_footer p{
+    font-size: 12px;
+    padding-top:20px;
+
+}
+.main{
+    background-color: green;
+}
+.main_body{
+    background-color: white;
+
+}
+.my_bottom_margin{
+       margin-bottom: 10px;
+}
+.card-body h4{
+    font-size: 14px;
+    text_transform: uppercase;
+    letter-spacing:.2em;
+}
+
+/****Product***/
+.my_prod_row_class{
+       padding-top: 15px;
+       Padding-bottom: 20px;
+}
+.my_prod_row_class.mx_auto{
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+}
+.my_prod_title{
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing:.2em;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+.my_prod_text{
+    padding-right: 15px;
+}
+.my_search_text{
+padding-top: 20px;
+}
+
+/****Cart***/
+
+.my_custom_table{
+    min-width:400px;
+    font-size:14px;
+}
+.my_custom_thead{
+    font-weight:normal;
+    text-transform: uppercase;
+    letter-spacing:.2em;
+    background-color: grey!important;
+}
+.custom_a{
+    text-decoration:none;
+}
+.custom_icon{
+    text-decoration:none;
+    color: #868e96 !important;
+
+}
+.my_custom_button{
+    margin-top:5px;
+}
